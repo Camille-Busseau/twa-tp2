@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Xbox Wireless Controller - Carbon Black for Xbox Series X/S, Xbox One & Windows Devices",
+      "description": "High performance controller with modernized design and textured grip on the triggers",
+      "price": 75.19,
+      "category": "Video Games & VR",
+      "src": "game.jpg",
+      "sale": false
+    },
+    {
+      "id": 6,
+      "productName": "Beats Solo3 On-Ear Wireless Headphones - Rose Gold",
+      "description": "Striking pair of headphones for looking cool and vibing",
+      "price": 250.59,
+      "category": "Headphones, Speakers & Audio",
+      "sale": false
+    },
+    {
+      "productName": "The name of a product that is truly wonderful",
+      "description": "The wonderful things you will do with it",
+      "price": "200.20",
+      "sale": true,
+      "category": "Headphones, Speakers & Audio",
+      "id": 7
+    }
+  ]
+}

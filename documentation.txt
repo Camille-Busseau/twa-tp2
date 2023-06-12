@@ -1,0 +1,21 @@
+Lignes de commandes:
+    Version de production:
+    >npx create-react-app ecommerce
+    >cd ecommerce
+    >npm start
+    >npm i react-icons
+    >npm start
+    >npm i react-router-dom
+    >npm run build
+    >npm i -g serve
+    >npx serve -s build -p 8000
+
+    Version avec serveur simulé JSON
+    >npm i json-server
+    >npm run server
+
+Webdev: e2195352.cmaisonneuve.qc.ca/build
+(Instructions:
+1. Cliquez sur le lien About
+2. Cliquez sur retour
+3. Vous êtes sur la page principale de l'app.)
